@@ -1,6 +1,4 @@
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
-### Name: NARESH.PS
-### Reference No: 212223040127
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
